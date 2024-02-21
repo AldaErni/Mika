@@ -30,6 +30,7 @@ body {
   align-items: center;
   cursor: pointer;
   transition: transform 0.5s; /* Добавляем анимацию */
+  transition: 1s;
 }
 
 
