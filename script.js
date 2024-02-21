@@ -1,6 +1,6 @@
 const englishWords = ["Kind", "Brave", "Joyful", "Wicked", "Evil", "Dishonest", "Curious", "Funny", "Interesting"];
 const russianWords = ["Добрый - thinking about other people's feelings", "Смелый - ready to force and fight", "Веселый - causing great pleasure ", "Злой - evil or morally wrong", "Зло - bad things and person", "Нечестный - person who say lies", "Любопытный - who is always wonder", "Смешной - causing laughter", "Интересный - who is catching the attention"];
-const images = ["kind.jpg", "image2.jpg", "image3.jpg", "image4.jpg", "image5.jpg", "image6.jpg", "image7.jpg", "image8.jpg", "image9.jpg"];
+const images = ["kind.JPG", "image2.jpg", "image3.jpg", "image4.jpg", "image5.jpg", "image6.jpg", "image7.jpg", "image8.jpg", "image9.jpg"];
 
 let currentCardIndex = 0;
 
