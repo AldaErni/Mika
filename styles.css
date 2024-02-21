@@ -33,6 +33,9 @@ body {
   transition: 1s;
 }
 
+.card:hover {
+  background: #51c3e6;
+}
 
 .card.flipped {
   transform: rotateY(180deg); /* Поворачиваем карточку при классе flipped */
